@@ -1,6 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/elecolab/isp.elecolab.com/
-    - /bin/cp * $DEPLOYPATH
-    - /bin/cp -R application $DEPLOYPATH
+    - export DEPLOYPATH=/home/user/public_html/
+    - /bin/cp -R images $DEPLOYPATH
