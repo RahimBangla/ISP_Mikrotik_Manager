@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => 'elecolab.com',
 	'username' => 'elecolab_isp',
 	'password' => 'R.rahim623',
 	'database' => 'elecolab_isp',
