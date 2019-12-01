@@ -1,0 +1,35 @@
+{
+	"description": "The CodeIgniter framework",
+	"name": "codeigniter/framework",
+	"type": "project",
+	"homepage": "https://codeigniter.com",
+	"license": "MIT",
+	"support": {
+		"forum": "http://forum.codeigniter.com/",
+		"wiki": "https://github.com/bcit-ci/CodeIgniter/wiki",
+		"slack": "https://codeigniterchat.slack.com",
+		"source": "https://github.com/bcit-ci/CodeIgniter"
+	},
+	"require": {
+		"php": ">=5.3.7",
+		"parsecsv/php-parsecsv": "^1.0",
+		"paypal/rest-api-sdk-php": "*",
+                "ujjwal/currency-converter":"2.2.*",
+		"stripe/stripe-php": "^6.4",
+		"php-http/curl-client": "^1.7",
+		"guzzlehttp/psr7": "^1.4",
+		"mailgun/mailgun-php": "^2.5",
+		"nexmo/client": "^1.3",
+		"twilio/sdk": "^5.19",
+		"pear2/cache_shm": "*@alpha",
+		"pear2/net_transmitter": "1.0.0a5",
+		"pear2/net_routeros": "*@beta"
+	},
+	"suggest": {
+		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
+	},
+	"require-dev": {
+		"mikey179/vfsStream": "1.1.*",
+		"phpunit/phpunit": "4.* || 5.*"
+	}
+}

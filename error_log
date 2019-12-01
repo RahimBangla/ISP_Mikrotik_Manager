@@ -1,0 +1,5 @@
+[23-Aug-2016 14:56:07 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/robinitb/public_html/application/views/home.php on line 122
+[23-Aug-2016 14:56:58 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/robinitb/public_html/application/views/home.php on line 122
+[23-Aug-2016 14:57:04 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/robinitb/public_html/application/views/home.php on line 122
+[23-Aug-2016 14:58:17 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/robinitb/public_html/application/views/home.php on line 122
+[24-Aug-2016 04:34:24 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/robinitb/public_html/application/views/bills.php on line 8
