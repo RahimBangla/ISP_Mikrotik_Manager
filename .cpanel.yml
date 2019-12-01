@@ -3,3 +3,4 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/elecolab/isp.elecolab.com/
     - /bin/cp * $DEPLOYPATH
+    - /bin/cp -R * $DEPLOYPATH
